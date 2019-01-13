@@ -1,0 +1,12 @@
+(hue=0.00, saturation=0.00) = White
+(hue=0.00, saturation=1.00) = Red
+(hue=0.05, saturation=1.00) = Orange
+(hue=0.10, saturation=1.00) = Yellow
+(hue=0.20, saturation=1.00) = Yellow/Green
+(hue=0.30, saturation=1.00) = Light Green
+(hue=0.40, saturation=1.00) = Dark Green
+(hue=0.50, saturation=1.00) = Light Blue
+(hue=0.60, saturation=1.00) = Medium Blue
+(hue=0.70, saturation=1.00) = Dark Blue
+(hue=0.80, saturation=1.00) = Purple
+(hue=0.90, saturation=1.00) = Pink
